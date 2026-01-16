@@ -10,7 +10,7 @@ This project recreates YouTube’s layout and responsiveness as a practice proje
 - CSS
   
 ## Live Demo
-- 
+-  https://roshimaki.github.io/YouTube-Clone-Project/
 
 ## Purpose 
 - Built as a practice project to improve front-end and responsive design skills.
